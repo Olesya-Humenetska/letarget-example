@@ -1,3 +1,3 @@
 # test project
 
-https://olesya-humenetska.github.io/test/build/index.html
+https://olesya-humenetska.github.io/letarget-example/build/
